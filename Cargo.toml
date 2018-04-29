@@ -1,0 +1,6 @@
+[package]
+name = "mcfpm"
+version = "0.1.0"
+authors = ["トリナー <toliner.rkt@gmail.com>"]
+
+[dependencies]
